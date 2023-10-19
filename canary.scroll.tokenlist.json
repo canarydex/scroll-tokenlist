@@ -1,0 +1,58 @@
+{
+    "name": "Canary Scroll Tokens",
+    "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png",
+    "keywords": [
+        "scroll",
+        "defi",
+        "ethereum",
+        "bridge"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 534352,
+            "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0x5300000000000000000000000000000000000004",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth-mantle-bridge.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+            "decimals": 6,
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21420.png"
+        }
+    ],
+    "timestamp": "2023-10-19T22:00:00+00:00"
+}
